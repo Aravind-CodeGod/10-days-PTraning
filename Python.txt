@@ -1,0 +1,20 @@
+35 reserved words only three starting with capital TRue False None
+>set data types: set,frozenset
+>Binary types: bytearray,memoryview
+>fastest language is c++
+>python is usually slow
+>reference of a varible not address in python -- id(a)
+>type(a)
+>everything py is class
+>typecasting -->int()	,float()	,bool()		,complex() 	,str()
+>all input is str(dynamically typed)
+>a,b=map(int,input("Enetro input: ").split())----}mapping
+>
+>
+>
+>
+>
+>
+>
+>
+>
