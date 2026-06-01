@@ -8,13 +8,35 @@
 >everything py is class
 >typecasting -->int()	,float()	,bool()		,complex() 	,str()
 >all input is str(dynamically typed)
+
+Mapping
+-------
 >a,b=map(int,input("Enetro input: ").split())----}mapping
+
+
+Operators
+---------
+>Arthematic:	+,-,/,//,%,**,*
+
+>Relational: 	>,<,>=,<= --->channing of relational operatos are possible in py a<b<c
+
+>LOgical: 	and,or,not,
+
+>bitwise : 	&(And)	|(OR)	~(NOT)	^(XOR)	<<(left shift)	>>(right shitf)
+
+>XOR
+    1   1   0
+    0   1   1
+    0   1   1
+    ---------
+    1   1   0   --->if even no of 1s 0 else 1
+    --->if it xor with itself it is zero
+
+>a=a+10  ==     a+=10
+
+>Special Operations :       Identiy(is ,is not),        membership(in ,not in)
+
+
 >
->
->
->
->
->
->
->
+
 >
