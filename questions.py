@@ -15,3 +15,11 @@ while(a<=b):
     b*=2
     c+=1
 print(c)
+
+
+3Q)https://codeforces.com/problemset/problem/466/A
+n,m,a,b=map(int,input().split())
+if((b/m)>a):
+    print(n*a)
+else:
+    print(n//m*b+min((n%m)*a,b))

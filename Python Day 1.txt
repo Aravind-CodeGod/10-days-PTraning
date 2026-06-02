@@ -37,6 +37,6 @@ Operators
 >Special Operations :       Identiy(is ,is not),        membership(in ,not in)
 
 
->if we know the no of iterations we use for else we use while
+>
 
 >
